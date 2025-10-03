@@ -1,87 +1,75 @@
-<h1 align="center">👋 Hi, I'm Umesh Patil</h1>
-<h3 align="center">Product Professional | SaaS Builder | React Developer</h3>
+# 👋 Hi, I'm Umesh Patil  
+**Product Professional | SaaS Builder | Design Thinker | Software Developer**
 
 ---
 
 ### 🚀 About Me
-I’m a **product professional** with hands-on experience building and launching **B2B SaaS products** from the ground up.  
-I blend **product strategy**, **user empathy**, and **technical execution** to turn ideas into impactful products.  
-
-💡 I believe great products are built at the intersection of **technology, design, and psychology**.
-
----
-
-### 🧩 What I’m Working On
-#### 💼 [Payneet.com](https://payneet.com)
-A SaaS platform helping **offline, subscription-based businesses** (like gyms) manage their customers and payments effortlessly.  
-
-- 🧭 Led **end-to-end product development** — from user research to launch  
-- 📊 Analyzed user behavior via **PostHog dashboards** to improve UX  
-- 🚀 Gained **20+ pre-registrations** and **3 paying users** with **zero marketing spend**  
-- 🧠 Built with **React**, **Firebase**, and a lean **MVP-first approach**
-
-📂 [GitHub Repository →](https://github.com/umyapatil/payneet)
+- Product professional with experience in **B2B SaaS** — combining **product, tech, and design** to solve real problems.  
+- Passionate about understanding **user behavior** and building products that create impact.  
+- Skilled at taking ideas from **discovery → roadmap → launch** using an **MVP-first approach**.  
+- Background in **software development** with a strong foundation in **React, Firebase, and analytics tools**.
 
 ---
 
-### 💻 Previous Work
-- 🧑‍💻 **Software Developer** at **HTS** — delivered cross-platform apps for insurance clients using React Native  
-- ⚙️ **Software Developer** at **Duodecimal** — owned internal tool features, increasing engagement by 15%  
-- 📊 **Product-Focused Developer** at **Fiviza** — redesigned **Agilebin**, boosting retention by 25% and signups by 100%
+### 💼 Currently Building: [Payneet](https://payneet.com)
+A SaaS platform that helps **offline, subscription-based businesses** (like gyms) manage customers and payments.
+
+**What I did:**
+- Conducted **user research** and 20+ interviews to identify core pain points  
+- Defined **PRDs**, **user stories**, and **product roadmap**  
+- Designed wireframes and **prototypes in Figma**  
+- Built the product using **React** and **Firebase**  
+- Integrated **analytics** (PostHog) to track user behavior and improve UX  
+- Planned and executed **MVP launch** and **go-to-market strategy**  
+
 
 ---
 
-### 🛠️ Tech & Product Stack
-#### 🧠 Product Management  
-Agile · Roadmapping · PRDs · User Research · Wireframing · A/B Testing · Go-to-Market Strategy
+### 🧑‍💻 Previous Work
+- **Software Developer @ HTS**  
+  - Built web and mobile apps using **React Native**  
+  - Collaborated with cross-functional teams to align product with business goals  
+  - Managed tasks using **Jira**, ensuring on-time delivery  
 
-#### 💻 Tech  
-React.js · Next.js · React Native · Node.js · MongoDB · Firebase · SQL · NoSQL
-
-#### 🧰 Tools  
-Figma · Jira · PostHog · Notion · Google Analytics · ClickUp · Postman
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white" />
-</p>
+- **Software Developer @ Fiviza**  
+  - Worked on **Agilebin**, a B2B SaaS project management tool  
+  - Contributed to product redesign and UX improvements  
+  - Participated in **market research**, **user feedback**, and **feature prioritization**
 
 ---
 
-### 📈 Product Thinking in Action
-🧭 **Payneet:** Identified a gap for offline businesses → validated problem → launched MVP → achieved paying users  
-📊 **Agilebin:** Improved UX through behavioral analytics → retention +25%  
-🎯 **Duodecimal Internal Tool:** User segmentation led to 10% higher feature adoption  
+### 🛠️ Skills
+
+**Product Management:**  
+Agile · PRDs · Roadmapping · User Research · UX · Wireframing · Go-to-Market · Analytics  
+
+**Tech Stack:**  
+React · Next.js · Node.js · Firebase · MongoDB · SQL · REST APIs  
+
+**Tools:**  
+Figma · PostHog · Jira · Notion · ClickUp · Postman · Google Analytics  
+
+---
+
+### 🧠 Product Thinking in Action
+- Identified user problems through research and interviews  
+- Defined roadmaps and prioritized features aligned with user needs  
+- Translated insights into actionable **PRDs** and **MVP features**  
+- Used analytics to drive iterative improvements  
 
 ---
 
 ### 🌱 Currently Learning
-- Product Strategy & Discovery
-- Metrics & Analytics for PMs
-- Business Storytelling
-
----
-
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umyapatil&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umyapatil&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- Product Strategy and Discovery  
+- Business Storytelling  
+- Metrics and Growth Frameworks  
 
 ---
 
 ### 🤝 Let’s Connect
 📧 **imumeshpatil@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/umesh-patil-a8747121a/)  
-🌐 [Payneet.com](https://payneet.com)  
+🌐 [Payneet](https://payneet.com)  
 🐙 [GitHub](https://github.com/umyapatil)
 
----
-
-> _"Building products people love starts with understanding people."_ 🧠
+> _Building products people love starts with understanding people._
