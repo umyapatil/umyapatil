@@ -67,7 +67,7 @@ Figma · PostHog · Jira · Notion · ClickUp · Postman · Google Analytics
 ---
 
 ### 🤝 Let’s Connect
-📧 **imumeshpatil@gmail.com**  
+📧 **imumeshpatil8080@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/umesh-patil-a8747121a/)  
 🌐 [Payneet](https://payneet.com)  
 🐙 [GitHub](https://github.com/umyapatil)
